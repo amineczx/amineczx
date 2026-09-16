@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Diplômé **Ingénieur d'État** de l'**EMSI** (École Marocaine des Sciences de l'Ingénieur), Rabat
+- 🎓 Élève Ingénieur d'État en 5ème année (Génie Logiciel) à l'**EMSI** (École Marocaine des Sciences de l'Ingénieur), Rabat
 - 🔍 Actuellement à la recherche d'un **PFE / pré-embauche de 6 mois** en développement Full-Stack Java
 - 🏗️ Passionné par l'**architecture Backend & Cloud**, la conception d'API robustes et scalables
 - ☕ Certifié **Oracle Certified Professional (OCP) Java SE 17 Developer**
