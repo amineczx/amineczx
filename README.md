@@ -2,12 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=220&section=header&text=Mohamed%20Amine%20Bahadi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Ing%C3%A9nieur%20Logiciel&descAlignY=55&descSize=20" />
 
-<a href="https://www.linkedin.com/in/mohamedaminebahadi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:bahadiamine1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<br><br>
+
+<a href="https://www.linkedin.com/in/mohamed-amine-bahadi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:bahadiamine1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
